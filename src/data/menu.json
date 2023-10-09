@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Пицца Везувий",
+    "img": "/src/assets/img/pizza-plus/pizza-vesuvius.jpg",
+    "description": "Соус томатный, сыр «Моцарелла», ветчина, пепперони, перец «Халапенье», соус «Тобаско», томаты.",
+    "price": 545
+  },
+  {
+    "id": 2,
+    "name": "Пицца Девичник",
+    "img": "/src/assets/img/pizza-plus/pizza-vesuvius.jpg",
+    "description": "Соус томатный, постное тесто, нежирный сыр, кукуруза, лук, маслины, грибы, помидоры, болгарский перец.",
+    "price": 450
+  },
+  {
+    "id": 3,
+    "name": "Пицца Оле-Оле",
+    "img": "/src/assets/img/pizza-plus/pizza-vesuvius.jpg",
+    "description": "Соус томатный, сыр «Моцарелла», черри, маслины, зелень, майонез",
+    "price": 440
+  },
+  {
+    "id": 4,
+    "name": "Пицца Плюс",
+    "img": "/src/assets/img/pizza-plus/pizza-vesuvius.jpg",
+    "description": "Соус томатный, сыр «Моцарелла», сыр «Чеддер», томаты, пепперони, телятина, грибы, бекон, болгарский перец.",
+    "price": 850
+  },
+  {
+    "id": 5,
+    "name": "Пицца Гавайская",
+    "img": "/src/assets/img/pizza-plus/pizza-vesuvius.jpg",
+    "description": "Соус томатный, сыр «Моцарелла», ветчина, ананасы",
+    "price": 440
+  },
+  {
+    "id": 6,
+    "name": "Пицца Классика",
+    "img": "/src/assets/img/food-band/preview.jpg",
+    "description": "Соус томатный, сыр «Моцарелла», сыр «Пармезан», ветчина, салями, грибы.",
+    "price": 510
+  }
+]

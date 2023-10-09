@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "url": "pizza-plus",
+    "name": "Пицца Везувий",
+    "servetime": "50 мин",
+    "img": "src/assets/img/pizza-plus/preview.jpg",
+    "category": "Пицца",
+    "description": "От 900 ₽",
+    "rating": "4.5"
+  },
+  {
+    "id": 2,
+    "url": "tanuki",
+    "name": "Тануки",
+    "servetime": "60 мин",
+    "img": "src/assets/img/tanuki/preview.jpg",
+    "category": "Суши, роллы",
+    "description": "От 1200 ₽",
+    "rating": "4.5"
+  },
+  {
+    "id": 3,
+    "url": "food-band",
+    "name": "FoodBand",
+    "servetime": "50 мин",
+    "img": "src/assets/img/food-band/preview.jpg",
+    "category": "Пицца",
+    "description": "От 450 ₽",
+    "rating": "4.5"
+  },
+  {
+    "id": 4,
+    "url": "palki-skalki",
+    "name": "Палки скалки",
+    "servetime": "40 мин",
+    "img": "src/assets/img/palki-skalki/preview.jpg",
+    "category": "Пицца",
+    "description": "От 500 ₽",
+    "rating": "4.5"
+  },
+  {
+    "id": 5,
+    "url": "gusi-lebedi",
+    "name": "Гуси Лебеди",
+    "servetime": "75 мин",
+    "img": "src/assets/img/gusi-lebedi/preview.jpg",
+    "category": "Русская кухня",
+    "description": "От 1000 ₽",
+    "rating": "4.5"
+  },
+  {
+    "id": 6,
+    "url": "PizzaBurger",
+    "name": "PizzaBurger",
+    "servetime": "45 мин",
+    "img": "src/assets/img/pizza-plus/preview.jpg",
+    "category": "Пицца",
+    "description": "От 700 ₽",
+    "rating": "4.5"
+  }
+]
